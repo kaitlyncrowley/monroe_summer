@@ -1,37 +1,3 @@
-## Welcome to GitHub Pages
+## Kaitlyn Crowley Monroe Freshman Summer Research
 
-You can use the [editor on GitHub](https://github.com/kmcrowley3/monroe_summer/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kmcrowley3/monroe_summer/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Hello, my name is Kaitlyn Crowley. I am a rising sophomore at the College of William and Mary and I am majoring in Data Science and Sociology. This summer, I am working on a research project investigating the use of Demographic Health Survey Data and the ways that machine learning and geospatial data can suppement this information. For this project, I intend to focus on Liberia and more specifically on the implications that this information can have on improving access to education. As the current COVID-19 pandemic and the recent Ebola outbreak in West Africa have demonstrated, it is essential to be able to measure education access as accurately as possible. Access to education has such significant implications for the future wellbeing of the students, particularly female students in developing countries.
