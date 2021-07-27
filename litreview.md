@@ -7,7 +7,7 @@ For many students, complaining about going to school seems to be an expected par
   
 In an attempt to remedy these unfreedoms for students and females, member states of the United Nations adopted the 17 Sustainable Development Goals in 2015 to as a call to action to end poverty by “improv[ing] health and education, reduc[ing] inequality, and spur[ring] economic growth” (United Nations). Sustainable Development Goal 4 specifically focuses on providing access to quality education to students, and Sustainable Development Goal 5, aims to achieve gender equality globally (United Nations). In many ways, these goals go hand in hand, with education providing girls a way to improve their position in society and movements toward gender equality increasing the number of girls who are in school. However, the progress towards achieving these goals has faced severe setbacks in the past year and a half. 
 
-In March of 2020, the world seemed to shut down. The COVID-19 pandemic caused many aspects of daily life to come to a halt, including school. By April 2020, school closures reached their peak and 1.725 billion children globally were affected when 95% of countries around the world closed their schools at some capacity (Smith, 2021). While all of these students were severely affected, students without access to network, internet, or computers suffered even more without access to virtual learning (Dube, 2020).  Liberia is one country where these conditions are demonstrated. As one of the top ten poorest countries in Africa and among the poorest countries in the world, the situation of access to education and gender inequality are still severe, without many resources available to address the inequalities (World Population Review, 2021)
+In March of 2020, the world seemed to shut down. The COVID-19 pandemic caused many aspects of daily life to come to a halt, including school. By April 2020, school closures reached their peak and 1.725 billion children globally were affected when 95% of countries around the world closed their schools at some capacity (Smith, 2021). While all of these students were severely affected, students without access to network, internet, or computers suffered even more without access to virtual learning (Dube, 2020).  Liberia is one country where these conditions are demonstrated. As one of the top ten poorest countries in Africa and among the poorest countries in the world, the situation of access to education and gender inequality are still severe, without many resources available to address the inequalities (World Population Review, 2021). According to the Human Development Report from 2020, Liberia ranked 175th for the human development index and 156th for the gender inequality index, placing it in the “low human development" category (UNDP, 2020). This means that there is still a lot of work to be done to improve the conditions of gender in Liberia and one of the best ways to do this is through education.
   
 In addition to being affected by the COVID-19 pandemic, Liberia was also one of the three main countries, along with Gambia and Sierra Leone, to be affected by the Ebola pandemic from 2013-2016 (Parry & Gordon, 2021). Not only did this affect students who were out of school while it was closed, but many students did not return to school once it opened again (Smith, 2021). Girls were particularly affected as many got married and began having children, some earlier than expected, due to the disruption in their education (Watt, 2020). This phenomena is present in other countries as well. If a girl leaves school, there is a high likelihood of her getting married soon after she drops out. The opposite can also happen where a girl plans to get married and therefore drops out of school to fulfill her roles as a wife and mother (Sekine & Hodgkin, 2017). 
   
@@ -67,23 +67,40 @@ Unequal treatment of women in their homes and communities and a lack of access t
 
 When actually analyzing the data collected by the LDHS, at such a large scale, the only effective way to analyze this data is through computer analysis. It is not enough to solely look at the tables of data in the report, which is often not a dataset, but rather just totals or percentages of the indicative factor of the survey. 
 
+References
+
 Chitungo, I., Dzobo, M., Hlongwa, M., & Dzinamarira, T. (2020). COVID-19: Unpacking the low number of cases in Africa. Public Health in Practice, 1, 100038. https://doi.org/10.1016/j.puhip.2020.100038
+
 Dube, B. (2020). Rural online learning in the context of COVID 19 in South Africa: Evoking an inclusive education approach. Multidisciplinary Journal of Educational Research, 10(2), 135. https://doi.org/10.17583/remie.2020.5607
+
 European Centre for Disease Prevention and Control (ECDC). (2021, July 22). COVID-19 situation update worldwide, as of week 28, updated 22 July 2021. European Centre for Disease Prevention and Control. https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases. 
+
 Gates, M. (2019). The Moment of Lift: How Empowering Women Changes the World. Flatiron Books. 
 Liberia Institute of Statistics and Geo-Information Services - LISGIS, Minsitry of Health - MOH, and ICF. (2021). Liberia Demographic and Health Survey 2019-20. Monrovia, Liberia: LISGIS/MOH/ICF. https://www.dhsprogram.com/pubs/pdf/FR362/FR362.pdf.
+
 Liberia Institute of Statistics and Geo-Information Services (LISGIS) and ICF. (2021). The Liberia Demographic and Health Survey 2019-20 Summary Report. Monrovia, Liberia, and Rockville, Maryland, USA: LISGIS and ICF. 
+
 Morse, M. M., & Anderson, G. (2020, June 8). How the COVID-19 Crisis is Exacerbating Gender Inequality. unfoundation.org. https://unfoundation.org/blog/post/shadow-pandemic-how-covid19-crisis-exacerbating-gender-inequality/
+
 Mwai, P. (2021, July 16). Coronavirus in Africa: Concern grows over third wave of infections. BBC News. https://www.bbc.com/news/world-africa-53181555. 
+
 Nasa, R. (2019, August 13). What the Failures of the Last Ebola Outbreak Can Teach Us About the Future. PBS. https://www.pbs.org/wgbh/frontline/article/what-the-failures-ebola-outbreak-teach-future/. 
+
 Parry, B. R., & Gordon, E. (2021). The shadow pandemic: Inequitable gendered impacts of COVID‐19 in South Africa. Gender, Work & Organization, 28(2), 795–806. https://doi.org/10.1111/gwao.12565
+
 Sekine, K., & Hodgkin, M. E. (2017). Effect of child marriage on girls' school dropout in Nepal: Analysis of data from the Multiple Indicator Cluster Survey 2014. PloS One, 12(7), e0180176. 10.1371/journal.pone.0180176
 
 Smith, W. C. (2021). Consequences of school closure on access to education: Lessons from the 2013–2016 Ebola pandemic. International Review of Education, 67(1–2), 53–78. https://doi.org/10.1007/s11159-021-09900-2
 
 Soy, A. (2020, October 7). Coronavirus in Africa: Five reasons why Covid-19 has been less deadly than elsewhere. BBC News. https://www.bbc.com/news/world-africa-54418613. 
+
 TEDx Talks. (2020, May 19). Education in Africa | Lennox Owino | TEDxUWMadison [Video]. YouTube. https://www.youtube.com/watch?v=lejhIcRh8js
+
+UNDP (Ed.). (2020). The next frontier: Human development and the Anthropocene. United Nations Development Programme.
+
 United Nations. (n.d.). THE 17 GOALS | Sustainable Development. United Nations. https://sdgs.un.org/goals. 
+
 Watt, E. (2020, April 2). From Ebola to coronavirus: education must not be forgotten in a health crisis. Theirworld. https://theirworld.org/news/ebola-to-coronavirus-education-vital-in-health-crisis. 
+
 World Population Review. (2021). Poorest Countries in Africa 2021. Poorest Countries In Africa 2021. https://worldpopulationreview.com/country-rankings/poorest-countries-in-africa. 
-![image](https://user-images.githubusercontent.com/69999484/126932196-1971ec28-6848-4708-bf98-ea0d8a3a2624.png)
+
