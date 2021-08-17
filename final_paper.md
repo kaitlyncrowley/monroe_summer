@@ -1,16 +1,16 @@
 # Gender and Education in the Midst of a Changing World: Analyzing Data to Assess Inequalities in Liberia
 
-# Kaitlyn M. Crowley
+### Kaitlyn M. Crowley
 
-# Department of Data Science, College of William and Mary
+### Department of Data Science, College of William and Mary
 
-# Monroe Freshman Summer Research
+### Monroe Freshman Summer Research
 
-# Dr. Tyler Frazier
+### Dr. Tyler Frazier
 
-# August 17, 2021
+### August 17, 2021
 
-Introduction
+#### Introduction
 
 For many students in the United States, complaining about going to school seems to be a natural part of attending. Some do not want to do the work, others are stressed by the social element of the setting, and some become anxious about living up to expectations about their performance. Others just feed off of the energy of other students who claim they do not want to be in school. However, in many countries, going to school is a privilege that a large number of students are not able to enjoy. Many children are faced with the decision to sacrifice their education in order to put food on the table and help their families (TEDx Talks, 2020).  This privilege of receiving an education is even more difficult for girls to obtain. Girls are often expected to stay at home and care for the family, or the school funds are spent only on boys if the family can afford to send their children to school at all (Gates, 2019, p. 100). As Gates (2019) shares in her book The Moment of Lift, “sending girls to school is a long term investment, and for families in extreme poverty, the focus is on survival” (p. 100) or the traditional role of girls in the home doesn’t require them to get an education (p. 101). 
 
@@ -24,7 +24,7 @@ In addition to being affected by the COVID-19 pandemic, Liberia was also one of 
 
 These complex issues of gender inequality and freedom to access education require measurement and analysis in order to be certain that proper actions are being taken to attempt to remedy them. The Demographic and Health Survey (DHS) is a survey conducted by USAID in many countries, including Liberia. The survey conducted in Liberia approximately every five years is known as the Liberia Demographic and Health Survey (LDHS) and “is designed to provide data for monitoring the population and health situation in Liberia” (Liberia, 2021a). When compared to census data, which is only collected every ten years, DHS data is much more accurate. However, it is not a perfect solution to the need for accurate, up-to-date, easy to access data. It is essential to be able to quickly and easily analyze this data to target the specific regions and people who require aid. 
 
-Gender in Liberia 
+#### Gender in Liberia 
 
 When analyzing the level of development in a country, looking at the conditions of gender equality is a central point of investigation. Not only does gender inequality impede the progress toward improved lives for women, but “if you want to lift up humanity, [you must] empower women” (p. 27) as this empowerment “is the most comprehensive, pervasive, high-leverage investment you can make in human beings” (Gates, 2019, p. 27). In the argument for gender equality, it is essential that people realize that it is a battle for improved lives for everyone, not just women. One example of an area of life where the lack of female empowerment is evident is the fact that, even in developed countries, “women are more likely to spend more time on child care”  and around the world females do “three times more unpaid work than men” (Morse & Anderson, 2020). Many times, this unpaid work is in addition to work done for pay outside of the home. When this happens, women are less able to care for themselves and lack the influence to change their social positions since there is no extra time in their daily lives for anything other than work in the home. While this may be how many women want to live their lives, it is crucial that other opportunities are available to them, especially the opportunity to go to school and receive an education.
 
@@ -34,7 +34,7 @@ Without an education, it is more difficult for women to get jobs, girls are more
 
 All of these factors point to the overall health and wellbeing of women and their children in Liberia and the way that education seems to have a strong correlation with these factors. As the world has experienced in the past year and a half, the COVID-19 pandemic has peeled back the layers of these correlations and revealed that certain groups are much more susceptible to the effects of the pandemic. Women and girls are very clearly one of these groups. Even before COVID-19, Liberia experienced one of the most severe outbreaks of Ebola in the pandemic from 2014 to 2016, compounding an already complex issue of health, inequality, and gender.
 
-Ebola and Covid-19
+#### Ebola and Covid-19
 
 Over the course of the Ebola pandemic from 2014-2016, over 11,000 people died from the disease (Nasa, 2019). The three countries that were primarily impacted were Liberia, Gambia, and Sierra Leone in Western Africa. Not only did this outbreak have a significant cost in relation to lives lost, it also “devastated the economy” and the economies of these countries were still in recovery when COVID-19 hit (Nasa, 2019). The impact on education was also substantial, with 5 million children leaving “school for up to nine months” (Watt, 2020) during the outbreak. Most schools ended up reopening in 2015, but by that time, “students had lost approximately 1,848 hours of education” (Watt, 2020) or more than 33 weeks of time in school . However, the most significant point of these statistics is the fact that, of the children who had to leave school, “many never went back” (Watt, 2020). From other information describing the state of education for girls, it would not be unreasonable to deduce that girls will most likely be the ones to not return since they are less likely to go to school in the first place.
 
@@ -48,7 +48,7 @@ It is important to acknowledge that males still experience the effects of the pa
 
 Having the data about the changes in students attending school and their roles in the home is essential in order to target a response to get children back in school. It is also important to be able to articulate the relationship between gender, education, and the wealth that can be accumulated through an education and successful job. The best way to do this is with large datasets. It is difficult to affect any real change without first taking in all of the facts. When analyzing data about education and gender, it is especially important to have the most recent data possible since the conditions surrounding the data can change so quickly. While it is necessary to pay particular attention to the data surrounding the education of girls, it is essential that there is data on all students so that boys are not left out of the equation, even though they are more likely to return to school. The DHS is one of the international surveys that completes this task.
 
-DHS and Analysis
+#### DHS and Analysis
 
 As mentioned previously, the DHS is a survey that “provides an opportunity to inform policy and provide data for planning, implementation, and monitoring and evaluation of national health programs” (Liberia, 2021a). These surveys are completed approximately every five years and therefore provide a much more accurate picture of the lives of the people in the country of interest than census data. When collecting the data for the Liberia Demographic Health Survey, the country was divided into enumeration areas with households being selected randomly for a total of 9,745 households to be surveyed and women and men ages 15-49 were eligible for interviews within the households (Liberia, 2021a). Various questionnaires were used in the most recent LDHS, including a household questionnaire which contains information about all the members of the household of interest (Liberia, 2021a). 
 
@@ -56,7 +56,7 @@ While it is an improvement to have these surveys taking place more frequently th
 
 The 2019-20 LDHS is also the most recent Liberian report and one of the most recent DHS reports that has been published for any country, yet it has no data about the COVID-19 pandemic. This is a significant issue. Even though the survey may not specifically address COVID-19 cases or deaths, the impacts that the pandemic has on families, their health, education, and wealth are essential to be able to predict and analyze. Being able to make predictions allows informed decisions to be made about how to continue addressing inequalities that existed before the COVID-19 pandemic and remedy increased inequalities that have emerged as a result of the pandemic. It is not reasonable to expect a survey of this magnitude to be completed again in the next year or two, especially so soon after the last one and in the midst of the continuing pandemic. However, if one or two factors could be measured, such as age, gender, wealth, or education, and then those variables could be utilized to predict a different factor. Informed decisions could then be made with data that could be faster to collect. 
 
-Methods
+#### Methods
 
 To explore the idea of the predictive nature of the various variables in the LDHS, a model can be created using the datasets created by the DHS program. If a model can be trained using the complete DHS data that exists, then there is a possibility that this model could be used with a dataset with fewer variables, as long as a strong correlation is found in the investigation of the DHS data. The strength of this approach is that surveyors would not have to collect as much information and could therefore collect it more frequently. Training a model would allow for more accurate analysis to take place without having to complete an entire new survey. 
 There is a possibility that, without as much data to gather, a different method of collection could be put in place. For example, satellite data could locate schools and determine their size and use. Mobile phone data is also a growing technology for collecting data. There has been research demonstrating the effectiveness of mobile phone data in determining the gender of the user (Vaitla et al., 2017). Both of these methods would be able to provide much faster access to the data and that could then be used in a model trained on the most recent DHS data.
@@ -65,7 +65,7 @@ In order to access and work with the DHS data, a request for the data must be ap
 
 While investigating the data, it could be seen that there was not a strong linear relationship between any of the variables, other than wealth index and wealth index score, so it was clear that classification methods were necessary. Since the highest level of education was measured on a scale of 0-3, 0 meaning the person had no formal education, 1 indicating primary school, 2 indicating secondary school, and 3 indicating higher education, a classification method does make the most sense since the data is being organized into known categories, rather than a continuous scale (Liberia, 2021a). For this investigation, I selected three different classification methods to test: K-nearest neighbors (KNN), logistic regression, and decision trees. Within each of these methods, I tested the original data and scaled data, then I tested each method after completing dimensionality reduction on the data, specifically principal component analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE). For each of these dimensionally reduced tests, I tested the unscaled and scaled data. After these tests, I determined that the KNN classification on the unscaled data had the highest accuracy score, 0.6329, without distance weighting. While many of the other tests using KNN were close to this value along with some of the decision tree accuracy scores, this was the highest. Based on this, it can be determined that KNN classification with unscaled, not dimensionally reduced data would likely be the best method for classification in later research attempting to predict the highest level of education in Liberia.
 
-Further Research
+#### Further Research
 
 The first goal of further research would be to continue testing further hyperparameters to see whether the accuracy scores can be increased even further to improve later predictions. In addition, there are additional classification methods that, due to time constraints, were not tested in this research. One of the primary methods would be random forests, which, if put simply, are a collection of decision trees. Completing both of these in addition to the completed investigation would solidify which method is the most accurate when using age, sex, wealth index, and wealth index score to predict highest education level. 
 
@@ -75,13 +75,13 @@ Although more information can be analyzed through advancing data science methods
 
 Generally, there is so much information available and that is required to make informed decisions to improve the living circumstances of people in the world, yet work still needs to be done to collect this information in a thorough, efficient manner.
 
-Conclusion
+#### Conclusion
 
 When actually analyzing the data collected by the LDHS, at such a large scale, the only effective way to analyze this data is through computer analysis. It is not enough to solely look at the tables of data in the report, which is often not a dataset, but rather just totals or percentages of the indicative factor of the survey. More investigations must be completed to see how the DHS data can be used to the greatest advantage of governments and organizations to benefit the people in the countries where the data is being collected.
 
 Unequal treatment of women in their homes and communities and a lack of access to education are severe unfreedoms, especially in developing countries. It is necessary that countries globally continue to work towards the 17 Sustainable Development Goals by the set date in 2030, specifically gender equality and access to educaiton (United Nations). However, there is not a direct, linear path that can be followed to achieve these goals. Crises such as the Ebola pandemic, the COVID-19 pandemic, and other disasters, natural or otherwise, are constant threats to this path of progress. Ebola and COVID-19 have both had severe effects on the education that children have achieved and this will affect the children’s future, especially for girls.  A data science method must be implemented to both improve the predictive abilities of models and to improve the actual collection of the data. 
 
-References
+##### References
 
 Chitungo, I., Dzobo, M., Hlongwa, M., & Dzinamarira, T. (2020). COVID-19: Unpacking the low number of cases in Africa. Public Health in Practice, 1, 100038. https://doi.org/10.1016/j.puhip.2020.100038
 
