@@ -7,4 +7,6 @@ Hello, my name is Kaitlyn Crowley. I am a rising sophomore at the College of Wil
 
 [Draft Literature Review/Research Paper](litreview.md)
 
+[Gender and Education in the Midst of a Changing World: Analyzing Data to Assess Inequalities in Liberia](final_paper.md)
+
 [Reflection on My Coding Experience](Coding_reflection.md)
