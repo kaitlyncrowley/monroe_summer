@@ -1,5 +1,15 @@
 # Gender and Education in the Midst of a Changing World: Analyzing Data to Assess Inequalities in Liberia
 
+# Kaitlyn M. Crowley
+
+# Department of Data Science, College of William and Mary
+
+# Monroe Freshman Summer Research
+
+# Dr. Tyler Frazier
+
+# August 17, 2021
+
 Introduction
 
 For many students in the United States, complaining about going to school seems to be a natural part of attending. Some do not want to do the work, others are stressed by the social element of the setting, and some become anxious about living up to expectations about their performance. Others just feed off of the energy of other students who claim they do not want to be in school. However, in many countries, going to school is a privilege that a large number of students are not able to enjoy. Many children are faced with the decision to sacrifice their education in order to put food on the table and help their families (TEDx Talks, 2020).  This privilege of receiving an education is even more difficult for girls to obtain. Girls are often expected to stay at home and care for the family, or the school funds are spent only on boys if the family can afford to send their children to school at all (Gates, 2019, p. 100). As Gates (2019) shares in her book The Moment of Lift, “sending girls to school is a long term investment, and for families in extreme poverty, the focus is on survival” (p. 100) or the traditional role of girls in the home doesn’t require them to get an education (p. 101). 
