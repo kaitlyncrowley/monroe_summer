@@ -92,9 +92,9 @@ European Centre for Disease Prevention and Control (ECDC). (2021, July 22). COVI
 
 Gates, M. (2019). The Moment of Lift: How Empowering Women Changes the World. Flatiron Books. 
 
-Liberia Institute of Statistics and Geo-Information Services - LISGIS, Minsitry of Health - MOH, and ICF. (2021). Liberia Demographic and Health Survey 2019-20. Monrovia, Liberia: LISGIS/MOH/ICF. https://www.dhsprogram.com/pubs/pdf/FR362/FR362.pdf.
+Liberia Institute of Statistics and Geo-Information Services - LISGIS, Minsitry of Health - MOH, and ICF. (2021a). Liberia Demographic and Health Survey 2019-20. Monrovia, Liberia: LISGIS/MOH/ICF. https://www.dhsprogram.com/pubs/pdf/FR362/FR362.pdf.
 
-Liberia Institute of Statistics and Geo-Information Services (LISGIS) and ICF. (2021). The Liberia Demographic and Health Survey 2019-20 Summary Report. Monrovia, Liberia, and Rockville, Maryland, USA: LISGIS and ICF. 
+Liberia Institute of Statistics and Geo-Information Services (LISGIS) and ICF. (2021b). The Liberia Demographic and Health Survey 2019-20 Summary Report. Monrovia, Liberia, and Rockville, Maryland, USA: LISGIS and ICF. 
 
 Morse, M. M., & Anderson, G. (2020, June 8). How the COVID-19 Crisis is Exacerbating Gender Inequality. unfoundation.org. https://unfoundation.org/blog/post/shadow-pandemic-how-covid19-crisis-exacerbating-gender-inequality/
 
